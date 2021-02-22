@@ -1,0 +1,17 @@
+body {
+  min-height: 100vh;
+}
+
+.sign-in-form,
+.sign-up-form {
+  width: 425px;
+  margin: 0 auto;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+.add-link:hover {
+  cursor: pointer;
+}
